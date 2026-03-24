@@ -1,0 +1,10 @@
+{"id": 1, "prompt": "请用三句话解释Transformer中自注意力机制的作用。"}
+{"id": 2, "prompt": "什么是大语言模型推理中的Prefill阶段和Decode阶段？请分别说明。"}
+{"id": 3, "prompt": "KV Cache在LLM推理中解决了什么问题？如果不使用KV Cache会有什么后果？"}
+{"id": 4, "prompt": "请解释PagedAttention的核心思想，以及它如何提升显存利用率。"}
+{"id": 5, "prompt": "INT8量化是什么？它如何在保持模型精度的同时减少显存占用？"}
+{"id": 6, "prompt": "动态Batch（Continuous Batching）与静态Batch有什么区别？为什么前者更适合LLM推理服务？"}
+{"id": 7, "prompt": "请简述Flash Attention相比标准Scaled Dot-Product Attention的优化原理。"}
+{"id": 8, "prompt": "在边端侧部署大语言模型时，主要面临哪些资源约束？常见的应对方案有哪些？"}
+{"id": 9, "prompt": "vLLM框架的核心优化技术是什么？它相比HuggingFace原生推理有哪些性能提升？"}
+{"id": 10, "prompt": "什么是TTFT（Time To First Token）？它对用户体验有什么影响？"}

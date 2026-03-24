@@ -1,0 +1,1 @@
+python vllm_inference.py --model_path /inspire/hdd/project/mianxiangdayuyanmoxing/public/Qwen2.5-14B-Instruct/ --mode single

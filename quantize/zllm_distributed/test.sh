@@ -1,0 +1,2 @@
+# python zllm_inference.py --model_path /inspire/hdd/project/mianxiangdayuyanmoxing/public/Qwen2.5-14B-Instruct/ --mode batch --prompt_file ../prompts.jsonl --max_batch_size 4
+python zllm_inference.py --model_path /inspire/ssd/project/mianxiangdayuyanmoxing/public/Qwen3.5-122B/ --mode single

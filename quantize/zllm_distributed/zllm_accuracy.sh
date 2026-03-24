@@ -1,0 +1,1 @@
+python evaluate_accuracy.py --model_path /inspire/ssd/project/mianxiangdayuyanmoxing/public/Qwen3.5-122B/ --eval_file ../ceval_part.jsonl

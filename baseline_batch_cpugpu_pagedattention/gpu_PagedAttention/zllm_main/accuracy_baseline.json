@@ -1,0 +1,9 @@
+{
+  "total": 99,
+  "correct": 82,
+  "wrong": 17,
+  "accuracy": 0.8283,
+  "accuracy_pct": 82.83,
+  "eval_time_sec": 668.39,
+  "wrong_cases_count": 17
+}

@@ -1,0 +1,1 @@
+python benchmark.py --model_path /inspire/ssd/project/mianxiangdayuyanmoxing/public/Qwen2.5-14B-Instruct/ --prompt_file /inspire/hdd/project/mianxiangdayuyanmoxing/public/data/prompts.jsonl --output accuracy_baseline.json

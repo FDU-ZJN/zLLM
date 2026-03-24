@@ -1,0 +1,22 @@
+{
+  "backend": "fp16",
+  "use_paged_kv": false,
+  "inference_module": "zllm_inference",
+  "weight_dtype": "torch.float16",
+  "kv_pool_gb": null,
+  "model_path": "/inspire/ssd/project/mianxiangdayuyanmoxing/public/Qwen2.5-14B-Instruct/",
+  "torch_version": "2.10.0+cu128",
+  "cuda_version": "12.8",
+  "total_prompts": 10,
+  "total_output_tokens": 2560,
+  "wall_time_sec": 67.72,
+  "max_new_tokens_cfg": 256,
+  "overall_throughput_tps": 37.8,
+  "avg_latency_ms": 6755.23,
+  "p50_latency_ms": 6666.37,
+  "p95_latency_ms": 7161.43,
+  "p99_latency_ms": 7464.97,
+  "avg_ttft_ms": 6755.23,
+  "p95_ttft_ms": 7161.43,
+  "peak_gpu_mem_gb": 29.637
+}

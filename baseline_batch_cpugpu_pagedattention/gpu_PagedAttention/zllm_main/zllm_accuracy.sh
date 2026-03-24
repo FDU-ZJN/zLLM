@@ -1,0 +1,1 @@
+python evaluate_accuracy.py --model_path /inspire/hdd/project/mianxiangdayuyanmoxing/public/Qwen2.5-14B-Instruct/ --eval_file ../ceval_part.jsonl
